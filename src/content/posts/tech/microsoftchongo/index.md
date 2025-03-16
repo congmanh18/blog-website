@@ -2,7 +2,7 @@
 title: Microsoft Chọn Go Để Tái Thiết TypeScript - Tại sao không phải C# hay Rust?
 published: 2025-03-13
 description: Microsoft đã quyết định sử dụng Go để tái thiết TypeScript, một quyết định bất ngờ nhưng có cơ sở. Hãy cùng tìm hiểu lý do và kết quả của dự án này!
-tags: [microsoft, typescript, go]
+tags: [microsoft, typescript, golang]
 image: "./cover.jpg"
 category: Tech
 draft: false

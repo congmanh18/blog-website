@@ -1,6 +1,6 @@
 ---
 title: Golang Và Xu Hướng Công Nghệ - Tại Sao Ngày Càng Nhiều Công Ty Chọn Go?
-published: 2025-03-16
+published: 2025-03-16T06:46:37.121Z
 description: Golang là ngôn ngữ lập trình mã nguồn mở được phát triển bởi Google vào năm 2007 và ra mắt chính thức vào năm 2009. Go được thiết kế để giải quyết các vấn đề về hiệu suất, khả năng mở rộng và dễ bảo trì trong các hệ thống phần mềm lớn. Hãy cùng tìm hiểu cách sử dụng chúng để quản lý mã nguồn hiệu quả hơn!
 tags: [golang, trending, tech]
 image: "./cover.jpg"
